@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CustomAnotationAspectj.iml" filepath="$PROJECT_DIR$/CustomAnotationAspectj.iml" />
+      <module fileurl="file://C:\Users\Laszlo\Desktop\My Projects ON GitHub\CustomAnotationAspectj\CustomAnotationAspectj.iml" filepath="C:\Users\Laszlo\Desktop\My Projects ON GitHub\CustomAnotationAspectj\CustomAnotationAspectj.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Laszlo\Desktop\My Projects ON GitHub\CustomAnotationAspectj\app\app.iml" filepath="C:\Users\Laszlo\Desktop\My Projects ON GitHub\CustomAnotationAspectj\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/customannotation/customannotation.iml" filepath="$PROJECT_DIR$/customannotation/customannotation.iml" />
+      <module fileurl="file://C:\Users\Laszlo\Desktop\My Projects ON GitHub\CustomAnotationAspectj\customannotation\customannotation.iml" filepath="C:\Users\Laszlo\Desktop\My Projects ON GitHub\CustomAnotationAspectj\customannotation\customannotation.iml" />
     </modules>
   </component>
 </project>
